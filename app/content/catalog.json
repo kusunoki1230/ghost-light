@@ -1,0 +1,126 @@
+{
+ "version": 1,
+ "updated": "2026-10-28",
+ "packs": [
+  {
+   "id": "romeo-juliet",
+   "title": "Romeo and Juliet",
+   "titleZh": "罗密欧与朱丽叶",
+   "author": "William Shakespeare",
+   "authorZh": "莎士比亚",
+   "year": 1597,
+   "kind": "莎士比亚 · 悲剧",
+   "level": "中",
+   "blurb": "维罗纳两大世仇家族的少男少女一见钟情。语言最抒情，名句最多，适合入门莎剧。",
+   "file": "packs/romeo-juliet.json",
+   "rev": "f79a39f4",
+   "speeches": 879,
+   "studyScenes": [
+    {
+     "id": "rj-meet",
+     "titleZh": "初遇·十四行诗之吻"
+    },
+    {
+     "id": "rj-balcony",
+     "titleZh": "阳台·名字有什么关系"
+    }
+   ]
+  },
+  {
+   "id": "hamlet",
+   "title": "Hamlet",
+   "titleZh": "哈姆雷特",
+   "author": "William Shakespeare",
+   "authorZh": "莎士比亚",
+   "year": 1601,
+   "kind": "莎士比亚 · 悲剧",
+   "level": "高",
+   "blurb": "丹麦王子发现叔父弑父篡位，在复仇与犹豫之间挣扎。独白最多，是演员必修。",
+   "file": "packs/hamlet.json",
+   "rev": "512a0230",
+   "speeches": 1203,
+   "studyScenes": [
+    {
+     "id": "ham-tobe",
+     "titleZh": "生存还是毁灭"
+    },
+    {
+     "id": "ham-nunnery",
+     "titleZh": "我曾经爱过你"
+    }
+   ]
+  },
+  {
+   "id": "macbeth",
+   "title": "Macbeth",
+   "titleZh": "麦克白",
+   "author": "William Shakespeare",
+   "authorZh": "莎士比亚",
+   "year": 1606,
+   "kind": "莎士比亚 · 悲剧",
+   "level": "中",
+   "blurb": "苏格兰将军听信女巫预言，与妻子谋杀国王，最终被野心吞噬。莎翁最短的悲剧，节奏紧。",
+   "file": "packs/macbeth.json",
+   "rev": "1824c031",
+   "speeches": 694,
+   "studyScenes": [
+    {
+     "id": "mac-deed",
+     "titleZh": "我已经干了"
+    },
+    {
+     "id": "mac-tomorrow",
+     "titleZh": "明天，明天，再一个明天"
+    }
+   ]
+  },
+  {
+   "id": "midsummer",
+   "title": "A Midsummer Night's Dream",
+   "titleZh": "仲夏夜之梦",
+   "author": "William Shakespeare",
+   "authorZh": "莎士比亚",
+   "year": 1595,
+   "kind": "莎士比亚 · 喜剧",
+   "level": "中",
+   "blurb": "雅典森林里，恋人、仙王仙后和一群业余演员被小精灵的魔法搅成一团。轻松好笑，还有戏中戏。",
+   "file": "packs/midsummer.json",
+   "rev": "6c357d72",
+   "speeches": 521,
+   "studyScenes": [
+    {
+     "id": "mnd-casting",
+     "titleZh": "选角会·波顿什么都想演"
+    },
+    {
+     "id": "mnd-puck",
+     "titleZh": "迫克的收场白"
+    }
+   ]
+  },
+  {
+   "id": "seagull",
+   "title": "The Seagull",
+   "titleZh": "海鸥",
+   "author": "Anton Chekhov",
+   "authorZh": "契诃夫",
+   "year": 1896,
+   "kind": "契诃夫 · 现代戏剧",
+   "level": "初中",
+   "blurb": "湖边庄园里，想当作家的年轻人、想当演员的少女和一位成名女演员纠缠在爱与艺术之间。现代戏剧的开山之作，语言是日常口语。",
+   "file": "packs/seagull.json",
+   "rev": "51d94394",
+   "speeches": 627,
+   "studyScenes": [
+    {
+     "id": "sg-mourning",
+     "titleZh": "你为什么总穿黑衣服"
+    },
+    {
+     "id": "sg-actress",
+     "titleZh": "我是一个演员"
+    }
+   ]
+  }
+ ]
+}

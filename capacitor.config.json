@@ -1,0 +1,8 @@
+{
+  "appId": "com.noki.ghostlight",
+  "appName": "Ghost Light",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}

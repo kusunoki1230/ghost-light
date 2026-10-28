@@ -1,0 +1,21 @@
+{
+  "name": "ghost-light",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ghost Light — English for theatre, an Android app built with Capacitor",
+  "scripts": {
+    "build:web": "node scripts/build-web.mjs",
+    "android:add": "cap add android",
+    "android:patch": "node scripts/patch-android.mjs",
+    "android:sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.5.3",
+    "@capacitor/core": "8.5.3",
+    "@capacitor-community/speech-recognition": "7.0.1",
+    "@capacitor-community/text-to-speech": "8.0.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "8.5.3"
+  }
+}
